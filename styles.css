@@ -38,7 +38,7 @@ li {
 	display: inline;
 }
 
-p:first-child {
+.date {
 	color: #808080;
 	font-size: 0.75em;
 	margin-bottom: 30px;
