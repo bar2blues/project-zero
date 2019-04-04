@@ -38,6 +38,11 @@ li {
 	display: inline;
 }
 
+#cience{
+	color: red;
+	font-weight: bold;
+}
+
 .date {
 	color: #808080;
 	font-size: 0.75em;
