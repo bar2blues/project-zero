@@ -35,6 +35,10 @@ h3 {
 	text-transform: uppercase;
 }
 
+p {
+	font-family: 'Pavanam', sans-serif;
+}
+
 ul {
 	list-style-type: none; 
 }
