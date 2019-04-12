@@ -47,6 +47,16 @@ li {
 	display: inline;
 }
 
+a {
+	color: #0074c4;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0098ff;
+	text-decoration: underline;
+}
+
 img {
 	max-width: 100%;
 	display: block;
