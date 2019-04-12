@@ -47,6 +47,12 @@ li {
 	display: inline;
 }
 
+img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+  }
+
 #cience{
 	color: red;
 	font-weight: bold;
