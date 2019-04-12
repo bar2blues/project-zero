@@ -63,7 +63,7 @@ img {
 	height: auto;
   }
 
-#science{
+#science {
 	color: red;
 	font-weight: bold;
 }
@@ -72,6 +72,16 @@ img {
 	color: #808080;
 	font-size: 0.75em;
 	margin-bottom: 30px;
+}
+
+article {
+	width: 80%;
+	float: left;
+}
+
+.advertising {
+	width: 20%;
+	float: right;
 }
 
 .hr-footer {
