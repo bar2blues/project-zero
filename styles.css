@@ -69,14 +69,48 @@ img {
 	border: 0.5px solid #808080;
 	width: 80%;
 	opacity: 0.3;
+	margin-left: 10%;
+	float: left;
+	display: block;
 }
 
 .source-code {
 	margin-top: 25px;
 }
 
-
 .copyright {
 	width: 100%;
 	text-align: center;
+}
+
+footer {
+	float: left;
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.principal {
+	float: left;
+	display: block;
+	width: 70%;
+}
+
+.text {
+	width: 60%;
+	margin-left: 20%;
+}
+.recomendations {
+	float: left;
+	display: block;
+	width: 30%;
+}
+.advertising {
+	float: left;
+	display: block;
+	width: 30%;
+}
+ 
+#img1, #img2 {
+	margin: 10px;
 }
