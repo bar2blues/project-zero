@@ -47,23 +47,13 @@ li {
 	display: inline;
 }
 
-a {
-	color: #0074c4;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #0098ff;
-	text-decoration: underline;
-}
-
 img {
 	max-width: 100%;
 	display: block;
 	height: auto;
   }
 
-#science {
+#cience{
 	color: red;
 	font-weight: bold;
 }
@@ -72,16 +62,6 @@ img {
 	color: #808080;
 	font-size: 0.75em;
 	margin-bottom: 30px;
-}
-
-article {
-	width: 80%;
-	float: left;
-}
-
-.advertising {
-	width: 20%;
-	float: right;
 }
 
 .hr-footer {
@@ -103,34 +83,33 @@ article {
 	text-align: center;
 }
 
-footer {
+ footer {
 	float: left;
 	display: block;
 	width: 100%;
 	height: auto;
-}
+ }
 
-.principal {
+ .principal {
 	float: left;
 	display: block;
 	width: 70%;
-}
-
-.text {
-	width: 60%;
+ }
+ .text {
+	 width: 60%;
 	margin-left: 20%;
-}
-.recomendations {
+ }
+ .recomendations {
 	float: left;
 	display: block;
 	width: 30%;
-}
-.advertising {
+ }
+ .advertising {
 	float: left;
 	display: block;
 	width: 30%;
-}
+ }
  
-#img1, #img2 {
+ #img1, #img2 {
 	margin: 10px;
-}
+ }
