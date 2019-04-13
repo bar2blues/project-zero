@@ -75,7 +75,7 @@ Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer 
 #### Estilos CSS
 
 1. *Aplanar* lista de temáticas/secciones, es decir, que la lista se vea horizontal, con los ítems uno al lado del otro.
-2. Sacarle los bullets/viñetas a la lista de temmáticas/secciones.
+2. Sacarle los bullets/viñetas a la lista de temáticas/secciones.
 3. Definir un tamaño base para la fuente de nuestro documento en `18px`.
 4. Definir un tamaño relativo para los `h1` que sea 2.25 veces más grande que el tamaño base.
 5. Definir un tamaño relativo para los `h2` que sea 1.75 veces más grande que el tamaño base.
@@ -146,11 +146,11 @@ footer
 
 ---
 
-## Parte 3 [WIP]
+## Parte 3
 
 ### Fecha de entrega (Parte 3)
 
-4/6 de Abril, dependiendo en qué grupo estés.
+11/13 de Abril, dependiendo en qué grupo estés.
 
 #### Estilos CSS
 
@@ -158,4 +158,8 @@ footer
 2. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
 3. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
 4. Transformar los `h3` para que siempre se vean en mayúsculas.
-5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. Pista: alcanza con modificar ancho y alto de las mismas.
+5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. **Pista:** alcanza con modificar ancho y alto de las mismas.
+6. Modificar el estilo de los links (anchors) de nuestra página, para que no tengan subrayado y su color sea `#0074c4`.
+7. Modificar el estilo de los links (anchors) de nuestra página, para que tengan el color `##0098ff`y subrayado al hacer *hover* sobre los mismos.
+8. Flotar las secciones de publicidad y noticias recomendadas a la derecha para que se vean como en la imagen de referencia.
+9. Dejar un margen de `24px`entre las secciones de publicidad y noticias recomendadas y el `article` correspondiente a la noticia.

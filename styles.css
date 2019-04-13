@@ -47,13 +47,23 @@ li {
 	display: inline;
 }
 
+a {
+	color: #0074c4;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0098ff;
+	text-decoration: underline;
+}
+
 img {
 	max-width: 100%;
 	display: block;
 	height: auto;
   }
 
-#cience{
+#science {
 	color: red;
 	font-weight: bold;
 }
@@ -62,6 +72,16 @@ img {
 	color: #808080;
 	font-size: 0.75em;
 	margin-bottom: 30px;
+}
+
+article {
+	width: 80%;
+	float: left;
+}
+
+.advertising {
+	width: 20%;
+	float: right;
 }
 
 .hr-footer {
